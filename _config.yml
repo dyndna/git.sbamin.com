@@ -1,8 +1,6 @@
 # site wide config:
 
 name: SBAmin.com
-markdown: redcarpet
-highlighter: pygments
 url: https://git.sbamin.com/gitweb
 paginate: 8
 description: github:dyndna
@@ -37,7 +35,7 @@ owner:
   email: 
   # Social networking links used in footer. Update and remove as you like.
   twitter: sbamin
-  github: dyndna
+  github: sbamin
   stackexchange:
   # For Google Authorship https://plus.google.com/authorship
   google_plus: SamirAmin-Patel
