@@ -3,7 +3,7 @@
 name: SBAmin.com
 markdown: redcarpet
 highlighter: pygments
-url: http://git.sbamin.com
+url: https://git.sbamin.com/gitweb
 paginate: 8
 description: github:dyndna
 intro: github:dyndna
